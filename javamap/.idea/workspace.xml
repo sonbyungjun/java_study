@@ -2,19 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3b210ed-706b-4d68-9103-9ab7604a9e0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javaabstract/src/main/java/Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaclassinstancevar/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaclassinstancevar/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaclassinstancevar/src/main/java/Classvar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javafinal/src/main/java/Final.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaheap/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaheap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaheap/src/main/java/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javalist/src/main/java/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastack/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastack/src/main/java/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudyarray/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudyarray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudyarray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudyarray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudyarray/javastudyarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudyarray/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudyarray/src/main/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudylist/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudylist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javastudylist/src/main/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/javatcpsocketclient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/src/main/java/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/.idea/artifacts/spingstudystart_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/src/main/java/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/src/main/resources/config/spring/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spingstudystart/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/.idea/artifacts/springstudystart_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/java/com/byungjun/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/java/com/byungjun/auth/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/java/com/byungjun/auth/service/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/java/com/byungjun/common/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/java/com/byungjun/repository/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/java/com/byungjun/repository/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/resources/config/mapper/users_SQL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/resources/config/spring/context-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/src/main/resources/config/spring/context-repository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/web/WEB-INF/jsp/auth/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/web/WEB-INF/jsp/auth/users.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/web/WEB-INF/jsp/common/nav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springstudystart/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javalist/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javalist/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javalist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javalist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javalist/target/classes/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javalist/target/classes/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatcpsocketserver/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatcpsocketserver/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatcpsocketserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatcpsocketserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatcpsocketserver/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javatcpsocketserver/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathread/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathread/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathreadjoin/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathreadjoin/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathreadjoin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathreadjoin/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,9 +71,10 @@
     <session id="-87513800">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,7 +100,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -65,12 +109,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="650">
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#217#233#0" expanded="true" />
-                <element signature="e#531#547#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,8 +151,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="width" value="1890" />
+    <option name="x" value="1908" />
+    <option name="width" value="1941" />
     <option name="height" value="2112" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -119,8 +161,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,13 +185,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537354082157" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -190,27 +232,24 @@
       <option name="presentableId" value="Default" />
       <updated>1537353220865</updated>
       <workItem from="1537353224522" duration="923000" />
+      <workItem from="1545225954271" duration="602000" />
+      <workItem from="1545740871612" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="923000" />
+    <option name="totallyTimeSpent" value="1538000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1260" height="1408" extended-state="0" />
+    <frame x="1272" y="0" width="1294" height="1408" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25121555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
@@ -218,15 +257,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,12 +285,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="650">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#217#233#0" expanded="true" />
-            <element signature="e#531#547#0" expanded="true" />
           </folding>
         </state>
       </provider>

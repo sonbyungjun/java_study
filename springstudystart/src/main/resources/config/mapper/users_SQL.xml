@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 매퍼 연결 -->
+<mapper namespace="com.byungjun.repository.mapper.UserMapper">
+
+    <resultMap id="userMap" type="user">
+        <result column="id" property="id" />
+        <result column="username" property="username" />
+        <result column="password" property="password" />
+        <result column="name" property="name" />
+    </resultMap>
+
+    <select id="users" resultMap="userMap">
+        select
+          *
+        from
+          users
+    </select>
+
+    <select id="getUserByUsernam" resultMap="userMap" parameterType="String">
+        select
+          *
+        from
+          users
+        where
+          username = #{username}
+    </select>
+
+    <select id="getUsers" resultMap="userMap" parameterType="String">
+        select
+          *
+        from
+          users
+    </select>
+
+</mapper>

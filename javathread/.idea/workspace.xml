@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1100f501-9e1e-497a-a650-424cd54e36e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javatcpsocketserver/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatcpsocketserver/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatcpsocketserver/src/main/java/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javastreamCharacterStream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javastreamCharacterStream/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javastreamobject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javastreamobject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/javatcpsocketclient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatcpsocketclient/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatcpsocketserver/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatcpsocketserver/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatcpsocketserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatcpsocketserver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatcpsocketserver/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javatcpsocketserver/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javathreadjoin/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathreadjoin/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javathreadjoin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javathreadjoin/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,10 +29,11 @@
     <session id="647249222">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="300">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -98,8 +106,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1909" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-11" />
     <option name="width" value="1940" />
     <option name="height" value="2111" />
   </component>
@@ -110,7 +118,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,18 +137,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javathread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537357051904" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543845789936" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javathreadjoin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -182,17 +196,18 @@
       <updated>1537355563601</updated>
       <workItem from="1537355568759" duration="1583000" />
       <workItem from="1538398221875" duration="603000" />
+      <workItem from="1542424028700" duration="619000" />
+      <workItem from="1543836207049" duration="2057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2186000" />
+    <option name="totallyTimeSpent" value="4862000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1293" height="1407" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1293" height="1407" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24736415" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -234,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="300">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
